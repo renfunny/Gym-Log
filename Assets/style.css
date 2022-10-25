@@ -1,0 +1,28 @@
+.row {
+  justify-content: center;
+}
+.title {
+  padding: 0 0.5rem;
+}
+.box {
+  border-top: 0.5px solid black;
+  border-bottom: 0.5px solid black;
+  border-left: 0.5px solid black;
+}
+.addBtn {
+  border: 0.5px solid black;
+  padding: 0 1rem;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+.title-block {
+  justify-self: center;
+}
+.wrapper2 {
+  display: flex;
+  justify-content: center;
+}
